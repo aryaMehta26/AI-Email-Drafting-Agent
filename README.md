@@ -1,4 +1,5 @@
 # AI Email Drafting Agent
+<img width="1470" height="832" alt="image" src="https://github.com/user-attachments/assets/e3878f37-8829-449e-9731-f846a3005440" />
 
 Draft professional, context-aware email replies for 3 common workflows (inbound intro, outbound follow‑up, post‑meeting thank you). Designed to be **reviewed, lightly edited, and sent**.
 
