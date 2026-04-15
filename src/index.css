@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+/* Small global polish beyond Tailwind defaults. */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
